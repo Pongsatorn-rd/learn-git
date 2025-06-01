@@ -1,5 +1,25 @@
-* {
-    margin : 0;
-    padding : 0;
-    box-sizing: border-box;
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+form {
+    display : flex;
+    gap : 10px;
+}
+
+ul {
+    list0style: none;
+    padding: 0;
+}
+
+li {
+    backgroupd: #f3f3f3;
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
