@@ -6,7 +6,7 @@ setup(
     description="A CLI application to manage tasks.",
     author="Nine",
     author_email="pongsatornrd@gmail.com",
-    url="https://github.com/Pongsatorn-rd/learn-git",
+    url="https://github.com/Pongsatorn-rd/taskly",
     py_modules=["taskly"],
     entry_points={
         "console_scrips": [
